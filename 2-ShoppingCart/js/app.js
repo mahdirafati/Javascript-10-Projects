@@ -1,3 +1,4 @@
+'use strict';
 //Variables
 const coursesList = document.querySelector('#courses-list');
 const shoppingCartTable = document.querySelector('#cart-content tbody');
