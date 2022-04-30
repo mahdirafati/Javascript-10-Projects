@@ -1,3 +1,4 @@
+'use strict';
 //Variables
 const txtInput = document.querySelector('.inputs input');
 const checkBtn = document.querySelector('.inputs button');
