@@ -1,3 +1,4 @@
+'use strict';
 //Class instantiations
 const ui = new UI(),
   computer = new Computer(),

@@ -1,3 +1,4 @@
+'use strict';
 class UI {
   constructor() {
     this.userScore_span = document.querySelector("#user-score");
