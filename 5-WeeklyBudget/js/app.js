@@ -1,3 +1,4 @@
+'use strict';
 //Variables
 let userBudget;
 let budget;
