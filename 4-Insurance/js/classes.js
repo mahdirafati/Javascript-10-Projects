@@ -1,6 +1,7 @@
+'use strict';
 // Classes
 
-// every thing related to the insurance
+  // every thing related to the insurance
 class Insurance {
   constructor(make, year, level) {
     this.make = make;

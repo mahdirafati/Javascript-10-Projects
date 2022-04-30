@@ -1,3 +1,4 @@
+'use strict';
 //Class Instantiation
 const ui = new UI(),
   news = new News();
