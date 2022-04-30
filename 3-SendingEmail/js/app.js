@@ -1,3 +1,4 @@
+'use strict';
 // variables
 const sendBtn = document.querySelector("#sendBtn"),
   email = document.querySelector("#email"),
@@ -39,7 +40,7 @@ function submitForm(e) {
 
   // make second gif
   const sendEmailImg = document.createElement("img");
-  sendEmailImg.src = "../img/mail.gif";
+  sendEmailImg.src = "./img/mail.gif";
   sendEmailImg.style.display = "block";
 
   // show the email send image
